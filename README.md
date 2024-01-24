@@ -10,29 +10,31 @@ Displays outputs from the terminus functions to calculate morphology of terminus
 Terminus functions
 Functions used in the morphology tool to calcuate morphology changes in terminus data
 
+Notebooks
+1a.DEM_Processing
+1b.DEM_stats
+2.CombineTermini
+3.Morphology
+4.Supervised_classification
+5.Morphology_map-view
+6.Morphology_graph
+7.Transect_figures
 
-1a. Digital Elevation Model preparation
-1b. DEM Bed error
-2. Combine Autoterm and Termpicks data
-3. Main terminus morphology calculations
-4. Supervised classification
-5. Morphology map-view summary images
-6. Morphology graph summary plots
-7. Transect figures
 
 
+Extra notebooks:
 
-Extra:
-Comparing morphology Notebook to reproduce comparison figures not used in paper, but may be useful
+Comparing_morphology: Notebook to reproduce comparison figures not used in paper, but may be useful
 
-simple plotting
+Map_Graph_figures
 
 legend
 
 king data summary
 
 
-.py
+Modules 
+
 dem_funcs
 morpho_funcs
 terminus
