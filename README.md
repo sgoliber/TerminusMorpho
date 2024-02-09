@@ -25,16 +25,5 @@ Notebooks
 Extra notebooks:
 
 Comparing_morphology: Notebook to reproduce comparison figures not used in paper, but may be useful
-
-Map_Graph_figures
-
-legend
-
-king data summary
-
-
-Modules 
-
-dem_funcs
-morpho_funcs
-terminus
+Map_Graph_figures: : Notebook to reproduce map figures not used in paper, but may be useful
+Legend: code to produce a floating legend
