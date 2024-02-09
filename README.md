@@ -10,7 +10,7 @@ Displays outputs from the terminus functions to calculate morphology of terminus
 Terminus functions
 Functions used in the morphology tool to calcuate morphology changes in terminus data
 
-Notebooks
+**Main Notebooks**
 1a.DEM_Processing
 
 1b.DEM_stats
@@ -30,7 +30,8 @@ Notebooks
 
 
 
-Extra notebooks:
+
+**Extra notebooks:**
 
 Comparing_morphology: Notebook to reproduce comparison figures not used in paper, but may be useful
 
