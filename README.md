@@ -12,12 +12,19 @@ Functions used in the morphology tool to calcuate morphology changes in terminus
 
 Notebooks
 1a.DEM_Processing
+
 1b.DEM_stats
+
 2.CombineTermini
+
 3.Morphology
+
 4.Supervised_classification
+
 5.Morphology_map-view
+
 6.Morphology_graph
+
 7.Transect_figures
 
 
