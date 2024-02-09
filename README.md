@@ -11,6 +11,7 @@ Terminus functions
 Functions used in the morphology tool to calcuate morphology changes in terminus data
 
 **Main Notebooks**
+
 1a.DEM_Processing
 
 1b.DEM_stats
